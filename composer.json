@@ -1,0 +1,20 @@
+{
+	"name": "vertik1989/htmltodocx_1",
+	"description": "htmltodocx",
+	"keywords": ["html", "docx"],
+	"homepage": "https://github.com/vertik1989/htmltodocx_1",
+	"type": "library",
+	"require": {
+		"php": ">=5.2.4",
+		"ext-mbstring": "*"
+	},
+	"authors": [
+		{
+			"name": "Vitalik"
+		}
+	],
+	"autoload": {
+		"classmap": ["h2d_htmlconverter.php", "styles.inc"],
+		"files": ["h2d_htmlconverter.php", "styles.inc"]
+	}
+}
