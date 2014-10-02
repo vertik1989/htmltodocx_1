@@ -14,7 +14,7 @@
 		}
 	],
 	"autoload": {
-		"classmap": ["h2d_htmlconverter.php"],
-		"files": ["h2d_htmlconverter.php"]
+		"classmap": ["h2d_htmlconverter.php","styles.inc"],
+		"files": ["h2d_htmlconverter.php", "styles.inc"] 
 	}
 }
